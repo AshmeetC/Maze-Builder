@@ -1,0 +1,14 @@
+canvas{
+    border: 1px solid black;
+}
+input{
+    text-align: center;   
+    border-style: solid;         
+    border-width: 1px;
+}
+#main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
